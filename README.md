@@ -4,10 +4,9 @@ Madrid
 
 Email: defenghu1@hotmail.com
 
-GitHub: github.com/defenghu
+GitHub: <a style="text-decoration:none" href="github.com/defenghu">github.com/defenghu</a>
 
-LinkedIn: linkedin.com/in/defenghu/
-
+LinkedIn: <a style="text-decoration:none" href="linkedin.com/in/defenghu/">linkedin.com/in/defenghu/</a>
 
 ## Projects
 
