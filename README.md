@@ -17,7 +17,7 @@ Developed a Python-based machine learning model for image classification using t
 ### Vertex AI: Predicting Loan Risk with AutoML
 Trained and served a machine learning model to predict loan risk with a tabular dataset on Google Cloud Platform.
 
-### Hospital Data Analysis
+### <a style="text-decoration:none" href="https://github.com/defenghu/Data_Analysis_Hospitals">Hospital Data Analysis </a>
 Analyzed medical data from three different hospitals, focusing on patient demographics and diagnoses. Utilized Python libraries such as pandas for data manipulation, matplotlib and seaborn for data visualization, and numpy for numerical computations.
 
 ## Technical Skills
