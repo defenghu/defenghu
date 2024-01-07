@@ -14,11 +14,11 @@ LinkedIn: linkedin.com/in/defenghu/
 ### <a style="text-decoration:none" href="https://github.com/defenghu/Fashion-MNIST_Neural_Network_Classifier">Fashion-MNIST Neural Network Classifier</a>
 Developed a Python-based machine learning model for image classification using the FashionMNIST dataset. Implemented data preprocessing techniques, neural network models, and evaluated their performance, gaining hands-on experience in machine learning and data visualization.
 
-### Vertex AI: Predicting Loan Risk with AutoML
-Trained and served a machine learning model to predict loan risk with a tabular dataset on Google Cloud Platform.
-
 ### <a style="text-decoration:none" href="https://github.com/defenghu/Data_Analysis_Hospitals">Hospital Data Analysis </a>
 Analyzed medical data from three different hospitals, focusing on patient demographics and diagnoses. Utilized Python libraries such as pandas for data manipulation, matplotlib and seaborn for data visualization, and numpy for numerical computations.
+
+### Vertex AI: Predicting Loan Risk with AutoML
+Trained and served a machine learning model to predict loan risk with a tabular dataset on Google Cloud Platform.
 
 ## Technical Skills
 - **Programming**: Java, SQL, Python, R
