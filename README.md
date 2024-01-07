@@ -11,7 +11,7 @@ LinkedIn: linkedin.com/in/defenghu/
 
 ## Projects
 
-### Fashion-MNIST Neural Network Classifier
+### <a style="text-decoration:none" href="[https://www.w3schools.com](https://github.com/defenghu/Fashion-MNIST_Neural_Network_Classifier)">Fashion-MNIST Neural Network Classifier</a>
 Developed a Python-based machine learning model for image classification using the FashionMNIST dataset. Implemented data preprocessing techniques, neural network models, and evaluated their performance, gaining hands-on experience in machine learning and data visualization.
 
 ### Vertex AI: Predicting Loan Risk with AutoML
