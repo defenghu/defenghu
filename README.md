@@ -29,24 +29,20 @@ Analyzed medical data from three different hospitals, focusing on patient demogr
 
 **Tajamar, Madrid**
 
-*Artificial Intelligence Applied to Business*
-
+*Artificial Intelligence Applied to Business*<br>
 Relevant Coursework: Artificial Intelligence, Machine Learning, Deep Learning, Big Data, Applying Artificial Intelligence to Business, History of Artificial Intelligence
 
-**CRN en Desarrollo Informático y Comunicaciones, Getafe, Madrid**
+**CRN en Desarrollo Informático y Comunicaciones**
 
-*Data Analyst Cloudera*
-
+*Data Analyst Cloudera*<br>
 Relevant Coursework: Data Analysis, Data Definition Language, Apache Hive, Apache Impala, Introduction to Statistical Learning
 
- **CRN en Desarrollo Informático y Comunicaciones, Getafe, Madrid**
+ **CRN en Desarrollo Informático y Comunicaciones**
  
-*Data Engineering on Google Cloud Platform*
-
+*Data Engineering on Google Cloud Platform*<br>
 Relevant Coursework: Big Data, Data to Insights, Data Pipelines, Google Cloud Infrastructure
 
 **Campus Digital San Blas**
 
-*Java Developer*
-
+*Java Developer*<br>
 Relevant Coursework: Data Structures and Algorithms, Object-Oriented Programming, Operators and Control Statements, Interfaces and Exception handling
